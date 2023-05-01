@@ -27,5 +27,13 @@ Melhorias 1 , melhorias 2
 3. Sistema de bonus primeira compra 
 
 
+### imagem local
+![logo do python](img/python.png)
+
+### imagem externa 
+![logo do javascript](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimasters.com.br%2Fjavascript%2Ftecnicas-avancadas-com-javascript&psig=AOvVaw1rm_juEJX5aFR7icPNI7nn&ust=1683059421663000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICmuYr71P4CFQAAAAAdAAAAABAE)
+
+
+
 
 
