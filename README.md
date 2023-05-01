@@ -11,10 +11,10 @@ Melhorias 1 , melhorias 2
 
 ### Linguagem de projeto; 
 
-# HTML
-# CSS
-# JavaScript 
-# PHP
-# MySQL
+* HTML
+* CSS
+* JavaScript 
+* PHP
+* MySQL
 
 
