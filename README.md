@@ -20,6 +20,9 @@ Melhorias 1 , melhorias 2
 ### Funcionaliadades a desenvolver: 
 
 1. Area de membros 
+  1. login diferente para grupos de cliente
+  2. desconto especial para grupos de cliente 
+  3. css diferente para grupos de cliente 
 2. integraçao com outros pagamentos
 3. Sistema de bonus primeira compra 
 
