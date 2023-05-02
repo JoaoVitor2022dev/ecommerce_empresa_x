@@ -40,7 +40,9 @@ Melhorias 1 , melhorias 2
 
 [https://www.facebook.com](https://www.facebook.com)
 
+### Contribuidor Principal
 
+https://github.com/JoaoVitor2022dev
 
 
 
